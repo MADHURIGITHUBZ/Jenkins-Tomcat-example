@@ -30,3 +30,5 @@ On 8th April, I am deploying 1.6 version by hari
 
 on 28 th May ,Deploying the new version 
 
+updated again after configuring pollscm in jenkins
+
